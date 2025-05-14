@@ -113,7 +113,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eltabxkfiMYc0N1GVTHV-29" value="milvus向量存储" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="714" y="333" width="120" height="60" as="geometry" />
+          <mxGeometry x="853" y="325" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eltabxkfiMYc0N1GVTHV-32" value="向量化模型-M3E(中文场景支持）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="706" y="137" width="216" height="74" as="geometry" />
@@ -135,7 +135,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eltabxkfiMYc0N1GVTHV-40" value="选择检验科目模板" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="313.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="656" y="321" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eltabxkfiMYc0N1GVTHV-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-1" target="eltabxkfiMYc0N1GVTHV-34">
           <mxGeometry relative="1" as="geometry">
