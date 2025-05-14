@@ -139,11 +139,16 @@
             <mxPoint x="474" y="436" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="633" y="343.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="eltabxkfiMYc0N1GVTHV-34" value="提示词工程化模板动态调用" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="401" y="304" width="146" height="79" as="geometry" />
         </mxCell>
         <mxCell id="eltabxkfiMYc0N1GVTHV-50" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;1.数据+规则&lt;/span&gt;&#xa;&#xa;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="32" y="182" width="115" height="60" as="geometry" />
+          <mxGeometry x="14" y="197" width="115" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eltabxkfiMYc0N1GVTHV-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-56" target="eltabxkfiMYc0N1GVTHV-58">
           <mxGeometry relative="1" as="geometry" />
