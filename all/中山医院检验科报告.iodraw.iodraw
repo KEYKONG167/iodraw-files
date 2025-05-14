@@ -96,9 +96,10 @@
         </mxCell>
         <mxCell id="eltabxkfiMYc0N1GVTHV-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-34">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="274" y="344" as="targetPoint" />
+            <mxPoint x="95" y="344" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="116" y="344" />
+              <mxPoint x="373" y="344" />
+              <mxPoint x="373" y="344" />
             </Array>
           </mxGeometry>
         </mxCell>
