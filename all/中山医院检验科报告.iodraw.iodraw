@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" border="50" scale="3" compressed="false" locked="false" version="24.7.17">
   <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
-    <mxGraphModel dx="897" dy="1463" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="1642" dy="1858" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
@@ -103,19 +103,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eltabxkfiMYc0N1GVTHV-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-40">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="151.70588235294144" y="277.8823529411766" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="157" y="344" />
-              <mxPoint x="157" y="278" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eltabxkfiMYc0N1GVTHV-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-40">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="111.70588235294144" y="343.5" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-40" target="eltabxkfiMYc0N1GVTHV-50">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eltabxkfiMYc0N1GVTHV-40" value="选择检验科目模板" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="313.5" width="120" height="60" as="geometry" />
@@ -137,6 +126,9 @@
         </mxCell>
         <mxCell id="eltabxkfiMYc0N1GVTHV-34" value="提示词工程化模板动态调用" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="401" y="304" width="146" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-50" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="313.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
