@@ -222,6 +222,9 @@
         <mxCell id="eltabxkfiMYc0N1GVTHV-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-98" target="eltabxkfiMYc0N1GVTHV-100">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-98" target="eltabxkfiMYc0N1GVTHV-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eltabxkfiMYc0N1GVTHV-98" value="验证结果" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="627" width="120" height="60" as="geometry" />
         </mxCell>
