@@ -104,9 +104,10 @@
             <mxPoint x="473.76470588235316" y="796.7058823529414" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eltabxkfiMYc0N1GVTHV-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-34">
+        <mxCell id="eltabxkfiMYc0N1GVTHV-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-17.470588235294077" y="517.4705882352941" as="targetPoint" />
+            <mxPoint x="-22.000588235294078" y="511.0005882352941" as="targetPoint" />
+            <mxPoint x="396.47" y="615.0594117647058" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eltabxkfiMYc0N1GVTHV-34" value="提示词工程化模板动态调用" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
