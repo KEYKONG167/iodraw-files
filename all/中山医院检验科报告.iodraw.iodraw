@@ -103,25 +103,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eltabxkfiMYc0N1GVTHV-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-136.94" y="509" as="targetPoint" />
-            <mxPoint x="38" y="586" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="37.94" y="509" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eltabxkfiMYc0N1GVTHV-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-40" target="eltabxkfiMYc0N1GVTHV-43">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="38" y="745" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="eltabxkfiMYc0N1GVTHV-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-40" target="eltabxkfiMYc0N1GVTHV-45">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="eltabxkfiMYc0N1GVTHV-40" value="选择检验科目模板" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="176" y="308" width="120" height="60" as="geometry" />
         </mxCell>
