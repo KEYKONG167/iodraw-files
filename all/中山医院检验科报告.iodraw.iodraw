@@ -228,10 +228,6 @@
         <mxCell id="eltabxkfiMYc0N1GVTHV-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-98" target="eltabxkfiMYc0N1GVTHV-62">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1242" y="124" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1199" y="643" />
-              <mxPoint x="1199" y="76" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="eltabxkfiMYc0N1GVTHV-98" value="验证结果" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -247,7 +243,7 @@
             <mxPoint x="1000.75" y="419" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eltabxkfiMYc0N1GVTHV-100" value="优化结果：优化路径：提示词工程+知识库" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eltabxkfiMYc0N1GVTHV-100" value="优化结果：优化路径" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="338" y="722" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
