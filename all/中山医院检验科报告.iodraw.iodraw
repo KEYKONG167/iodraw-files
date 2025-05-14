@@ -117,12 +117,12 @@
         </mxCell>
         <mxCell id="eltabxkfiMYc0N1GVTHV-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-158" y="491.94" as="targetPoint" />
-            <mxPoint x="35" y="600" as="sourcePoint" />
+            <mxPoint x="-155" y="493.06" as="targetPoint" />
+            <mxPoint x="38" y="601.12" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-67" y="522.94" />
-              <mxPoint x="-67" y="487.94" />
-              <mxPoint x="-158" y="487.94" />
+              <mxPoint x="-64" y="524.0600000000001" />
+              <mxPoint x="-64" y="489.06" />
+              <mxPoint x="-155" y="489.06" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -145,7 +145,7 @@
         <mxCell id="eltabxkfiMYc0N1GVTHV-43" value="2.规则" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-278" y="715" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eltabxkfiMYc0N1GVTHV-45" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eltabxkfiMYc0N1GVTHV-45" value="2.规则" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-278" y="586" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
