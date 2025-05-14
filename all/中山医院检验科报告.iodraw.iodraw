@@ -48,6 +48,11 @@
         <mxCell id="eltabxkfiMYc0N1GVTHV-16" value="提供api生产后医生自主根据结果上传更新规则" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="796.5" y="61" width="139" height="69" as="geometry" />
         </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="989" y="-4" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="eltabxkfiMYc0N1GVTHV-18" value="初始得到的一些较少规则" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="795" y="-38" width="142" height="68" as="geometry" />
         </mxCell>
@@ -154,7 +159,7 @@
         <mxCell id="eltabxkfiMYc0N1GVTHV-62" value="对外Api" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="995" y="61" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eltabxkfiMYc0N1GVTHV-64" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eltabxkfiMYc0N1GVTHV-64" value="模型调用" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
