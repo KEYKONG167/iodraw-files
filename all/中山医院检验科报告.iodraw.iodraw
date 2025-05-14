@@ -128,6 +128,11 @@
             <mxPoint x="474" y="257" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="474" y="436" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="eltabxkfiMYc0N1GVTHV-34" value="提示词工程化模板动态调用" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="401" y="304" width="146" height="79" as="geometry" />
         </mxCell>
