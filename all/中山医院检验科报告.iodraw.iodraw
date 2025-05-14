@@ -83,7 +83,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eltabxkfiMYc0N1GVTHV-29" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eltabxkfiMYc0N1GVTHV-29" value="milvus向量存储" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="711" y="272" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
