@@ -214,7 +214,7 @@
         <mxCell id="eltabxkfiMYc0N1GVTHV-88" value="BGE-rerank" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1090" y="336" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eltabxkfiMYc0N1GVTHV-92" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eltabxkfiMYc0N1GVTHV-92" value="获得结果" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="580" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
