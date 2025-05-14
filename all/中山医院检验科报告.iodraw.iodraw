@@ -103,8 +103,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="151.70588235294144" y="277.8823529411766" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="eltabxkfiMYc0N1GVTHV-40" value="选择检验科目模板" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="176" y="308" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="313.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eltabxkfiMYc0N1GVTHV-42" value="1.数据+规则" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-189" y="193" width="120" height="60" as="geometry" />
