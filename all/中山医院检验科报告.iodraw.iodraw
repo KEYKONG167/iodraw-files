@@ -198,8 +198,8 @@
         <mxCell id="eltabxkfiMYc0N1GVTHV-83" value="二轮重排优化精度" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="933" y="336" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eltabxkfiMYc0N1GVTHV-88" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1133" y="336" width="120" height="60" as="geometry" />
+        <mxCell id="eltabxkfiMYc0N1GVTHV-88" value="BGE-rerank" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="336" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
