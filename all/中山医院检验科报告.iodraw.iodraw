@@ -10,6 +10,11 @@
         <mxCell id="eltabxkfiMYc0N1GVTHV-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-1" target="eltabxkfiMYc0N1GVTHV-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="474" y="580.2352941176473" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="eltabxkfiMYc0N1GVTHV-1" value="知识库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="384" width="120" height="60" as="geometry" />
         </mxCell>
@@ -93,6 +98,9 @@
         </mxCell>
         <mxCell id="eltabxkfiMYc0N1GVTHV-32" value="向量化模型-M3E(中文场景支持）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="953.5" y="247" width="239.5" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-34" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="436" y="578" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
