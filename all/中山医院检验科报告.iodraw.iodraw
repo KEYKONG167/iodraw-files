@@ -239,13 +239,17 @@
         <mxCell id="eltabxkfiMYc0N1GVTHV-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-100" target="eltabxkfiMYc0N1GVTHV-83">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1000.75" y="419" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="398" y="813" />
+              <mxPoint x="993" y="813" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="eltabxkfiMYc0N1GVTHV-100" value="优化结果：优化路径：知识库+提示词" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="338" y="722" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eltabxkfiMYc0N1GVTHV-107" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="491" y="662" width="120" height="60" as="geometry" />
+        <mxCell id="eltabxkfiMYc0N1GVTHV-107" value="增加规则" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="493" y="722" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
