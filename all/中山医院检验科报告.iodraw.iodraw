@@ -129,13 +129,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eltabxkfiMYc0N1GVTHV-56" value="2.角色定位要求" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="15" y="313.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="14" y="313.5" width="117" height="59.5" as="geometry" />
         </mxCell>
         <mxCell id="eltabxkfiMYc0N1GVTHV-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.453;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-56" target="eltabxkfiMYc0N1GVTHV-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eltabxkfiMYc0N1GVTHV-58" value="3.输出格式" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="23.5" y="448" width="120" height="60" as="geometry" />
+          <mxGeometry x="12.5" y="422" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
