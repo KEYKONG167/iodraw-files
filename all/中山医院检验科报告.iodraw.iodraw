@@ -114,13 +114,6 @@
         <mxCell id="eltabxkfiMYc0N1GVTHV-32" value="向量化模型-M3E(中文场景支持）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="711" y="136" width="185" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="eltabxkfiMYc0N1GVTHV-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-40" target="eltabxkfiMYc0N1GVTHV-50">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="240" y="234" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="eltabxkfiMYc0N1GVTHV-40" value="选择检验科目模板" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="641" y="313" width="120" height="60" as="geometry" />
         </mxCell>
