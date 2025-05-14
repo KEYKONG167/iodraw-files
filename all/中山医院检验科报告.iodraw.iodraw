@@ -179,13 +179,18 @@
             <mxPoint x="993" y="204.4000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="993" y="332.4000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="eltabxkfiMYc0N1GVTHV-78" value="初筛向量查询" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="933" y="241" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eltabxkfiMYc0N1GVTHV-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.012;entryY=0.415;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-50" target="eltabxkfiMYc0N1GVTHV-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eltabxkfiMYc0N1GVTHV-83" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eltabxkfiMYc0N1GVTHV-83" value="二轮重排优化精度" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="933" y="336" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
