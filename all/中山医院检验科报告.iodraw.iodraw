@@ -139,10 +139,10 @@
           <mxGeometry x="-278" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eltabxkfiMYc0N1GVTHV-43" value="2.规则" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-264" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="-278" y="715" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eltabxkfiMYc0N1GVTHV-45" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-334" y="586" width="120" height="60" as="geometry" />
+          <mxGeometry x="-278" y="586" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
