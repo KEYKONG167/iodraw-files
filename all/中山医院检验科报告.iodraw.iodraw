@@ -162,6 +162,14 @@
         <mxCell id="eltabxkfiMYc0N1GVTHV-62" value="对外Api" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="995" y="61" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="474" y="532.8333333333335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-64" target="eltabxkfiMYc0N1GVTHV-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eltabxkfiMYc0N1GVTHV-64" value="模型调用" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="440" width="120" height="60" as="geometry" />
         </mxCell>
@@ -205,6 +213,9 @@
         </mxCell>
         <mxCell id="eltabxkfiMYc0N1GVTHV-88" value="BGE-rerank" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1090" y="336" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-92" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="580" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
