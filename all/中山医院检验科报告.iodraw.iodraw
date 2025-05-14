@@ -104,7 +104,7 @@
             <mxPoint x="473.76470588235316" y="796.7058823529414" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eltabxkfiMYc0N1GVTHV-34" value="提示词工程化模板动态" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eltabxkfiMYc0N1GVTHV-34" value="提示词工程化模板动态调用" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="401" y="582" width="146" height="79" as="geometry" />
         </mxCell>
         <mxCell id="eltabxkfiMYc0N1GVTHV-36" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
