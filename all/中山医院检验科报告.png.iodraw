@@ -1,0 +1,253 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" border="50" scale="3" compressed="false" locked="false" version="24.7.17">
+  <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
+    <mxGraphModel dx="1676" dy="1588" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+      <root>
+        <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
+        <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
+        <mxCell id="eltabxkfiMYc0N1GVTHV-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-1" target="eltabxkfiMYc0N1GVTHV-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-1" target="eltabxkfiMYc0N1GVTHV-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-1" value="知识库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="197" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-2" target="eltabxkfiMYc0N1GVTHV-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-2" target="eltabxkfiMYc0N1GVTHV-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-2" target="eltabxkfiMYc0N1GVTHV-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-2" value="历史数据知识" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-4" target="eltabxkfiMYc0N1GVTHV-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-4" target="eltabxkfiMYc0N1GVTHV-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-4" value="规则知识" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="534" y="28" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-56" y="2.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-6" value="历史数据病史与用药等" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-9" y="-41" width="183" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-45" y="127" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-9" value="提供实时上传新患者" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-9" y="81" width="185" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1056" y="96" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-16" value="提供api生产后医生自主根据结果上传更新规则" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="796.5" y="61" width="139" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="989" y="-4" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-18" value="初始得到的一些较少规则" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="795" y="-38" width="142" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-23" value="{&lt;br/&gt;  &quot;医院名称&quot;: &quot;中山医院&quot;,&lt;br/&gt;  &quot;科室&quot;: &quot;检验科&quot;,&lt;br/&gt;  &quot;患者背景&quot;: {&lt;br/&gt;    &quot;性别&quot;: &quot;男&quot;,&lt;br/&gt;    &quot;年龄&quot;: 45,&lt;br/&gt;    &quot;病史&quot;: &quot;高血压&quot;，&lt;br/&gt;    &quot;现状&quot;: &quot;疼痛难耐，乏力&quot;&lt;br/&gt;  },&lt;br/&gt;  &quot;检验科目&quot;: &quot;血常规&quot;,&lt;br/&gt;  &quot;项目列表&quot;: [&lt;br/&gt;    {&lt;br/&gt;      &quot;项目名称&quot;: &quot;白细胞计数（WBC）&quot;,&lt;br/&gt;      &quot;项目结果&quot;: &quot;12.5 ×10⁹/L&quot;,&lt;br/&gt;      &quot;参考范围&quot;: &quot;4.0–10.0 ×10⁹/L&quot;,&lt;br/&gt;      &quot;单位&quot;: &quot;×10⁹/L&quot;,&lt;br/&gt;      &quot;规则说明&quot;: &quot;超过10为升高，需结合有无感染症状&quot;,&lt;br/&gt;      &quot;科室医生意见&quot;: &quot;若患者伴发热，WBC升高提示可能有细菌感染&quot;&lt;br/&gt;    },&lt;br/&gt;    {&lt;br/&gt;      &quot;项目名称&quot;: &quot;红细胞计数（RBC）&quot;,&lt;br/&gt;      &quot;项目结果&quot;: &quot;3.8 ×10¹²/L&quot;,&lt;br/&gt;      &quot;参考范围&quot;: &quot;4.5–5.5 ×10¹²/L&quot;,&lt;br/&gt;      &quot;单位&quot;: &quot;×10¹²/L&quot;,&lt;br/&gt;      &quot;规则说明&quot;: &quot;低于4.0为下降，需评估是否贫血&quot;,&lt;br/&gt;      &quot;科室医生意见&quot;: &quot;若患者乏力、面色苍白，RBC下降提示可能为贫血&quot;&lt;br/&gt;    }&lt;br/&gt;  ],&lt;br/&gt;  &quot;输出目标&quot;: &quot;请根据血常规中的多个项目，判断是否存在异常，并分析可能原因及临床建议&quot;,&lt;br/&gt;  &quot;语言风格&quot;: &quot;输出一段面向医生的临床建议&quot;&lt;br/&gt;}&amp;nbsp;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-538" width="501" height="473" as="geometry" />
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-25" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="611" y="21" as="sourcePoint" />
+            <mxPoint x="657" y="-50" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-26" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;startArrow=classic;endSize=8;startSize=8;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="361" y="24" as="sourcePoint" />
+            <mxPoint x="434" y="-66" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-28" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;rounded=1;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="474" y="172" as="sourcePoint" />
+            <mxPoint x="709" y="174" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-29" value="milvus向量存储" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="935.5" y="143" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="936" y="173" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-32" value="向量化模型-M3E(中文场景支持）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="711" y="136" width="185" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="807" y="299" as="targetPoint" />
+            <mxPoint x="761" y="340" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="808.4285714285716" y="391.8571428571429" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-40" value="选择检验科目模板" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="641" y="313" width="118" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-1" target="eltabxkfiMYc0N1GVTHV-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="474" y="580.2352941176473" as="targetPoint" />
+            <mxPoint x="474" y="257" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="474" y="436" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="633" y="343.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-34" value="提示词工程化模板动态调用" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="401" y="304" width="146" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-50" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;1.数据+规则&lt;/span&gt;&#xa;&#xa;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="756" y="235" width="98" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-56" target="eltabxkfiMYc0N1GVTHV-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-56" value="2.角色定位要求" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="748" y="396" width="117" height="59.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-58" value="3.输出格式" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="746.5" y="535" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-62" value="对外Api" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1059" y="61" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="474" y="530.3333333333335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-64" value="模型调用" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-68" value="预处理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-137" y="-29" width="80" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-69" value="同步APi" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-132" y="100" width="80" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-71" value="预处理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="989" y="-41" width="80" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="993" y="204.4000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="993" y="332.4000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-78" value="初筛向量查询" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="933" y="241" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.012;entryY=0.415;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-50" target="eltabxkfiMYc0N1GVTHV-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-83">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1088" y="366" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-83">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="847.166666666667" y="297.8333333333335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-83" value="二轮重排优化精度" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="933" y="336" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-88" value="BGE-rerank" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="336" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-92">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="474" y="626.1176470588234" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-92" value="获得结果" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="532" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-98" target="eltabxkfiMYc0N1GVTHV-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-98" target="eltabxkfiMYc0N1GVTHV-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-98" target="eltabxkfiMYc0N1GVTHV-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-98" target="eltabxkfiMYc0N1GVTHV-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-98" value="验证结果" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="418" y="613" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.28;entryY=1.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-100" target="eltabxkfiMYc0N1GVTHV-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="42" y="205.25" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="43" y="752" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-100" target="eltabxkfiMYc0N1GVTHV-83">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1000.75" y="419" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="398" y="813" />
+              <mxPoint x="993" y="813" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-100" value="优化结果：优化路径：知识库与提示词" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="338" y="722" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-107" target="eltabxkfiMYc0N1GVTHV-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-107" value="对外api更新规则" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="493" y="722" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
