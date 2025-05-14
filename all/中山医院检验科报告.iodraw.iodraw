@@ -91,7 +91,7 @@
         <mxCell id="eltabxkfiMYc0N1GVTHV-29" value="milvus向量存储" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="711" y="272" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eltabxkfiMYc0N1GVTHV-32" value="向量化模型-M3E" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eltabxkfiMYc0N1GVTHV-32" value="向量化模型-M3E(需要调研看有没有更好" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="953.5" y="268" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
