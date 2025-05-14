@@ -52,7 +52,7 @@
         </mxCell>
         <mxCell id="eltabxkfiMYc0N1GVTHV-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-16">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="994" y="96" as="targetPoint" />
+            <mxPoint x="1056" y="96" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eltabxkfiMYc0N1GVTHV-16" value="提供api生产后医生自主根据结果上传更新规则" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
@@ -225,7 +225,7 @@
         <mxCell id="eltabxkfiMYc0N1GVTHV-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-98" target="eltabxkfiMYc0N1GVTHV-100">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eltabxkfiMYc0N1GVTHV-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-98">
+        <mxCell id="eltabxkfiMYc0N1GVTHV-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-98" target="eltabxkfiMYc0N1GVTHV-62">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1242" y="124" as="targetPoint" />
           </mxGeometry>
