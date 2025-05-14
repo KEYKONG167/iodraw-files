@@ -238,7 +238,7 @@
             <mxPoint x="1000.75" y="419" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eltabxkfiMYc0N1GVTHV-100" value="优化结果：优化路径" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="eltabxkfiMYc0N1GVTHV-100" value="优化结果：优化路径：知识库+提示词" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="338" y="722" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
