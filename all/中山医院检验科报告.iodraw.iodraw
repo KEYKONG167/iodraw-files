@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" border="50" scale="3" compressed="false" locked="false" version="24.7.17">
   <diagram name="Blank" id="YmL12bMKpDGza6XwsDPr">
-    <mxGraphModel dx="1826" dy="1989" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
+    <mxGraphModel dx="1421" dy="1870" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="1" shadow="0">
       <root>
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
@@ -88,13 +88,11 @@
             <mxPoint x="1014" y="302" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eltabxkfiMYc0N1GVTHV-31" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eltabxkfiMYc0N1GVTHV-30">
-          <mxGeometry x="1" y="5" relative="1" as="geometry">
-            <mxPoint x="5" y="4" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="eltabxkfiMYc0N1GVTHV-29" value="milvus向量存储" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="711" y="272" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-32" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="963" y="271" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
