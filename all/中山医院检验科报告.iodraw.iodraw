@@ -40,7 +40,12 @@
         <mxCell id="eltabxkfiMYc0N1GVTHV-9" value="提供实时上传新患者" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-9" y="81" width="185" height="91" as="geometry" />
         </mxCell>
-        <mxCell id="eltabxkfiMYc0N1GVTHV-16" value="提供生产后医生自主根据结果上传更新规则" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="eltabxkfiMYc0N1GVTHV-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="994" y="96" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-16" value="提供api生产后医生自主根据结果上传更新规则" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="796.5" y="61" width="139" height="69" as="geometry" />
         </mxCell>
         <mxCell id="eltabxkfiMYc0N1GVTHV-18" value="初始得到的一些较少规则" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
