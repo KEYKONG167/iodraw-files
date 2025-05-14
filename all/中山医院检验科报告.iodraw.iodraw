@@ -225,6 +225,9 @@
         <mxCell id="eltabxkfiMYc0N1GVTHV-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-98" target="eltabxkfiMYc0N1GVTHV-100">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-98" target="eltabxkfiMYc0N1GVTHV-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eltabxkfiMYc0N1GVTHV-98" value="验证结果" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="418" y="613" width="120" height="60" as="geometry" />
         </mxCell>
@@ -240,6 +243,9 @@
         </mxCell>
         <mxCell id="eltabxkfiMYc0N1GVTHV-100" value="优化结果：优化路径：知识库+提示词" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="338" y="722" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eltabxkfiMYc0N1GVTHV-107" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="491" y="662" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
