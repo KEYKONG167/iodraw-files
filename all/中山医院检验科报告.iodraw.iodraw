@@ -85,11 +85,10 @@
         </mxCell>
         <mxCell id="eltabxkfiMYc0N1GVTHV-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-29">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1014" y="302" as="targetPoint" />
+            <mxPoint x="799" y="320" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="775" y="240" />
-              <mxPoint x="802" y="240" />
-              <mxPoint x="802" y="302" />
+              <mxPoint x="775" y="302" />
+              <mxPoint x="799" y="302" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -97,7 +96,7 @@
           <mxGeometry x="715" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eltabxkfiMYc0N1GVTHV-32" value="向量化模型-M3E(中文场景支持）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="942" y="296" width="239.5" height="81" as="geometry" />
+          <mxGeometry x="694.5" y="329" width="239.5" height="81" as="geometry" />
         </mxCell>
         <mxCell id="eltabxkfiMYc0N1GVTHV-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eltabxkfiMYc0N1GVTHV-34">
           <mxGeometry relative="1" as="geometry">
